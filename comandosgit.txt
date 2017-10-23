@@ -1,0 +1,7 @@
+para subir
+git status
+git add .
+git commit -m 'comentario'
+git pull
+git push origin master
+
