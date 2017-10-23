@@ -5,3 +5,5 @@ git commit -m 'comentario'
 git pull
 git push origin master
 
+
+git clone http: etc
