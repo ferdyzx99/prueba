@@ -1,0 +1,5 @@
+
+        ClipboardManager clipboard = (ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE);
+
+        ClipData clip = ClipData.newPlainText("simple text", "A ver si funciona esta mierda");
+        clipboard.setPrimaryClip(clip)

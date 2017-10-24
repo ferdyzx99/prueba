@@ -12,8 +12,11 @@ git clone http: etc
 primeros seteso
 
 
-git config --global ferdyzx99
+git config user.name  ferdyzx99
 
-git config --global spamersmatense@gmail.com
+git config user.email spamersmatense@gmail.com
 
-git config --global
+
+
+
+agregar --global para dejarlo fijo (git config user.name ferdyzx) 
