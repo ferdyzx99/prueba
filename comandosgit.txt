@@ -7,3 +7,13 @@ git push origin master
 
 
 git clone http: etc
+
+
+primeros seteso
+
+
+git config --global ferdyzx99
+
+git config --global spamersmatense@gmail.com
+
+git config --global
